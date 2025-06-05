@@ -1,4 +1,4 @@
-import { Construction, Home, Mail } from "lucide-react"
+import { Construction} from "lucide-react"
 
 export default function UnderConstructionPage() {
   return (
