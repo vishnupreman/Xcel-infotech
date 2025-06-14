@@ -15,7 +15,7 @@ export default function XCELinfotech() {
               About
             </a>
             <a href="#contact" className="hover:text-gray-300 transition-colors duration-200">
-              Contact
+              Contact 
             </a>
           </nav>
           <button className="md:hidden text-white">
